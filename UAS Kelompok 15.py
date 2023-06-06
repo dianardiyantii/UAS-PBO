@@ -1,3 +1,7 @@
+# Nama: Dian Ardiyanti Saputri
+# Npm : G1A022084
+# UAS PBO
+
 import tkinter as tk # Mengimpor modul tkinter sebagai tk
 from tkinter import filedialog, messagebox # Mengimpor beberapa kelas dan fungsi dari modul tkinter
 
